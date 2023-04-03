@@ -1,0 +1,44 @@
+Récupérer les informations suivantes et stocker les dans un DataFrame (pandas) pour 20 villes françaises :
+
+    Température actuelle ok
+    Température ressentie ok
+    Température minimale et maximale ok
+    Pression atmosphérique ok
+    Humidité ok
+    Vitesse du vent ok
+    Direction du vent ok
+    Description du temps OK
+    Lever du soleil (Attention à bien convertir en information compréhensible pour un humain) ok
+    Coucher du soleil (Attention à bien convertir en information compréhensible pour un humain) ok
+
+​
+
+Vous devez récupérer les informations actuelles. Les informations seront d'abord stockés dans un DataFrame et ensuite vous exporterez ce dataframe dans un fichier csv.
+
+​
+
+Vous devrez faire une veille technologique afin de monter en compétences.
+
+​
+
+​
+
+Bonus :
+
+    - Tester les requêtes avec postman
+
+    - Créer une base de données SQL
+
+    - Créer une app avec streamlit qui affichera les informations météorologiques quand on sélectionne une ville
+
+        Features de l'application : Carte intéractive, prévision à plusieurs jours, ajouter toutes les villes de France 
+
+        (celle disponible sur openweathermap). Création d'une bdd sqllite3 ou stocker tout les informations 
+        
+        Intéraction entre streamlit et la BDD SQL
+        
+        
+    - Mettre votre application streamlit dans un docker, déployer votre application 
+
+        sur Azure.
+

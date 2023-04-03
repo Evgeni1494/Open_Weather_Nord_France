@@ -1,0 +1,21 @@
+City,Temperature en C°,Feels like,Temp_min en C°,Temp_max en C°,Pression,Humidité,Vitesse_Vent en M,Direction Vent,Weather Description,Lever du soleil,Coucher du soleil
+Lille,11.31,9.67,8.84,12.74,1027,45,5.66,Nord-Est,clear sky,07:20:15,20:21:41
+Lambersart,11.53,9.84,8.86,12.75,1027,42,5.14,Nord-Est,clear sky,07:20:24,20:21:52
+Loos,11.41,9.7,9.64,12.74,1027,42,5.14,Nord-Est,clear sky,07:20:28,20:21:51
+Roubaix,11.08,9.47,9.88,12.11,1028,47,5.66,Nord-Est,clear sky,07:19:45,20:21:18
+Tourcoing,11.25,9.61,8.76,12.66,1028,45,5.14,Nord-Est,clear sky,07:19:46,20:21:23
+Croix,11.19,9.46,8.73,12.62,1027,42,5.14,Nord-Est,clear sky,07:19:50,20:21:22
+Mons-en-Barœul,11.25,9.61,10.08,12.71,1027,45,5.66,Nord-Est,clear sky,07:20:03,20:21:31
+Ronchin,11.16,9.51,10.03,12.97,1027,45,5.66,Nord-Est,clear sky,07:20:13,20:21:36
+Marcq-en-Barœul,11.46,9.76,8.9,12.79,1027,42,5.14,Nord-Est,clear sky,07:20:02,20:21:34
+Englos,11.46,9.78,9.55,12.65,1028,43,5.14,Nord-Est,clear sky,07:20:41,20:22:06
+Villeneuve-d'Ascq,11.26,9.54,8.81,13.01,1027,42,5.14,Nord-Est,clear sky,07:19:59,20:21:24
+Wasquehal,11.43,9.73,8.88,12.78,1027,42,5.14,Nord-Est,clear sky,07:19:56,20:21:27
+Seclin,11.2,9.39,10.12,13.05,1027,39,5.14,Nord-Est,clear sky,07:20:29,20:21:45
+Bondues,11.18,9.55,9.86,12.09,1028,46,5.66,Nord-Est,clear sky,07:20:04,20:21:39
+Mouvaux,11.22,9.49,8.68,12.57,1028,42,5.14,Nord-Est,clear sky,07:19:53,20:21:28
+Phalempin,11.14,9.33,10.06,13.0,1028,39,5.14,Nord-Est,clear sky,07:20:33,20:21:45
+Lesquin,11.02,9.27,9.95,12.88,1027,42,5.66,Nord-Est,clear sky,07:20:06,20:21:27
+Hem,11.21,9.4,8.81,13.0,1027,39,5.14,Nord-Est,clear sky,07:19:45,20:21:13
+Mouscron,11.05,9.31,8.71,12.6,1028,42,5.27,Est,clear sky,07:19:33,20:21:12
+Roncq,11.27,9.65,8.76,12.66,1028,46,5.42,Est,clear sky,07:19:54,20:21:35
